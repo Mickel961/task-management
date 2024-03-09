@@ -22,7 +22,6 @@ Create the database in pgAdmin
 5.Create the tables:
 python createdb.py
 
-Running the Application
 6.Start the Flask development server:
 python app.py
 
